@@ -1,0 +1,9 @@
+git add .    => jegula change hoise oigulakei shey dhore add korbe
+
+git commit -m "example"
+
+git push
+
+
+
+
